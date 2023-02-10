@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from "vue-router";
-import HeroView from "../views/main/index.vue";
+import HeroView from "../views/intro/index.vue";
 
 const routes: Array<RouteRecordRaw> = [
   {
